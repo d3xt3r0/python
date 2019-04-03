@@ -1,3 +1,4 @@
+__author__ = "d3xt3r0"
 from sklearn import tree
 from sklearn.datasets import load_iris
 import numpy as np
