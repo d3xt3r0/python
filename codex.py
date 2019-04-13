@@ -1,14 +1,8 @@
 #d3xt3r0
 import os.path
- 
 import Tkinter as tk
 
-   
-
-
 def onKeyPress(event):
-    f=open('temporary.txt','a')
-    
     first=event.char
     second=ord(first)
     a=[97,99,101,103,105,107,109,111,113,115,117,119,121]
