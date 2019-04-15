@@ -1,4 +1,9 @@
 #d3xt3r0
+
+'''
+This is a text editor that has gone mad.
+
+'''
 import os.path
 import Tkinter as tk
 
